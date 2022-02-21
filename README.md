@@ -1,4 +1,4 @@
-# easy.db
+# Easy.db
 <div align="center">
 <img src="easy.db.png" heigh="400" width="400"/>
 </div>
