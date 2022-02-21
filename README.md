@@ -1,6 +1,6 @@
 # easy.db
 <div align="center">
-<img src="easy.db.png" heigh="200" width="200"/>
+<img src="easy.db.png" heigh="400" width="400"/>
 </div>
 
 - A Simple Database Which Uses JSON Files to store your data
